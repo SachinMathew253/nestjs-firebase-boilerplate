@@ -1,0 +1,1 @@
+export { TradeIdeaRepositoryInterface, } from './repositories/tradeIdeas-repository.interface';

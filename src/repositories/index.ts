@@ -1,0 +1,1 @@
+export { TradeIdeaRepository, } from './tradeIdeas/tradeIdea.repository';
